@@ -3,4 +3,4 @@
 - 📋 Studing HTML, CSS
 - 🛒 Rider Store
   ---
- https://discord.gg/Wg8Nx7vMBM
+   https://discord.gg/Wg8Nx7vMBM
