@@ -1,3 +1,6 @@
+- Sobre Mim
+   ---
+  Algumas coisas
 - 🎮 ridermc.net
 - 🤖 Kuller Bot
 - 📋 Studing HTML, CSS
