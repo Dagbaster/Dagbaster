@@ -1,9 +1,7 @@
 - Sobre Mim
    ---
   Algumas coisas
-- 🎮 ridermc.net
-- 🤖 Kuller Bot
+- 🎮 plfscrims.cf
+- 🔫 dc.gg/plfscrims
 - 📋 Studing HTML, CSS
-- 🛒 Rider Store
   ---
-   https://discord.gg/Wg8Nx7vMBM
